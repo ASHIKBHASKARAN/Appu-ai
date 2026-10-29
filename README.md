@@ -1,6 +1,8 @@
-# JARVIS AI — Web Starter
+# APPU  AI — Web Starter
 
-A text-first JARVIS-inspired AI agent starter with chat, decision support, memory, tasks, and image tools.
+A text AI agent starter with chat, decision support, memory, tasks, and image tools.
+
+🌐 Live Website: https://appu-ai.vercel.app/
 
 ## Requirements
 - Python 3.10+

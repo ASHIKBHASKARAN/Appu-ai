@@ -15,7 +15,7 @@ import {
   ChevronRight,
 } from "lucide-react";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://appu-ai-backend.onrender.com";
 
 export default function App() {
   const [page, S] = useState("Overview");
